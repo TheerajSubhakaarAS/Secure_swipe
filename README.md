@@ -1,0 +1,1 @@
+a machine learning model to assess loan default risk using logistic regression. The model evaluates key financial indicators such as loan size, interest rate, borrower income, debt-to-income ratio, and credit history to classify loans as low-risk or high-risk.
